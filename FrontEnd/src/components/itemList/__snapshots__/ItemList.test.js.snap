@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`item list  should render correctly in "debug" mode and match the snapshot 1`] = `
+<div
+  className="ItemList"
+>
+  <img />
+  <div
+    className="container"
+  >
+    <button
+      className="linkButton"
+      onClick={[Function]}
+    >
+      <h4>
+        <b />
+      </h4>
+    </button>
+    <p />
+    <ul>
+      <li>
+        CPU: 
+         
+      </li>
+      <li>
+        RAM: 
+         
+      </li>
+      <li>
+        Graphics card: 
+      </li>
+      <li>
+        Storage: 
+      </li>
+      <li>
+        Storage size: 
+      </li>
+    </ul>
+    <span
+      className="itemPrice"
+    >
+      Price: £
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`item list  should render correctly in "debug" mode and match the snapshot 1`] = `
+<div
+  className="regWrapper"
+>
+  <div
+    className="form-wrapper"
+  >
+    <h1>
+      Register
+    </h1>
+    <form
+      noValidate={true}
+      onSubmit={[Function]}
+    >
+      <div
+        className="firstName"
+      >
+        <input
+          name="firstName"
+          noValidate={true}
+          onChange={[Function]}
+          placeholder="First Name"
+          type="text"
+        />
+        <span
+          className="errorMessage"
+        >
+           
+        </span>
+      </div>
+      <div
+        className="surname"
+      >
+        <input
+          name="surname"
+          noValidate={true}
+          onChange={[Function]}
+          placeholder="surname"
+          type="text"
+        />
+        <span
+          className="errorMessage"
+        >
+           
+        </span>
+      </div>
+      <div
+        className="email"
+      >
+        <input
+          name="email"
+          noValidate={true}
+          onChange={[Function]}
+          placeholder="Email"
+          type="email"
+        />
+        <span
+          className="errorMessage"
+        >
+           
+        </span>
+      </div>
+      <div
+        className="username"
+      >
+        <input
+          name="username"
+          noValidate={true}
+          onChange={[Function]}
+          placeholder="username"
+          type="text"
+        />
+        <span
+          className="errorMessage"
+        >
+           
+        </span>
+      </div>
+      <div
+        className="password"
+      >
+        <input
+          name="password"
+          noValidate={true}
+          onChange={[Function]}
+          placeholder="Password"
+          type="password"
+        />
+        <span
+          className="errorMessage"
+        >
+           
+        </span>
+      </div>
+      <div
+        className="confirmPassword"
+      >
+        <input
+          name="confirmPassword"
+          noValidate={true}
+          onChange={[Function]}
+          placeholder="confirmPassword"
+          type="Password"
+        />
+        <span
+          className="errorMessage"
+        >
+           
+        </span>
+      </div>
+      <div
+        className="createAccount"
+      >
+        <button
+          className="regSumbit"
+          type="submit"
+        >
+          Register
+        </button>
+        <button
+          className="regButton"
+          onClick={[Function]}
+        >
+          <small>
+            Already Have an Account?
+          </small>
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;

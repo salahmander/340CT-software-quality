@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly in "debug" mode and match the snapshot 1`] = `
+<div
+  className="header"
+>
+  <div
+    className="logo"
+  >
+    <button
+      className="homeButton"
+      onClick={[Function]}
+    >
+      <img
+        alt="Acer"
+        src="Acer.png"
+      />
+    </button>
+  </div>
+  <div
+    className="header-center"
+  >
+    <button
+      className="laptopButton"
+      onClick={[Function]}
+    >
+       Laptop 
+    </button>
+    <button
+      className="desktopButton"
+      onClick={[Function]}
+    >
+       Desktop 
+    </button>
+    <span
+      onClick={[Function]}
+    >
+      <button
+        className="loginButton"
+        type="Logout"
+      >
+         Login 
+      </button>
+    </span>
+    <span
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;

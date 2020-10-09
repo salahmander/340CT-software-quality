@@ -1,0 +1,51 @@
+.ItemList {
+    box-shadow: 0px 5px 30px lime;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: black;
+    width: 70%;
+    transition: 0.3s;
+    border-radius: 5px;
+    display: flex;
+    margin-bottom: 5%;
+    margin-left: 15%;
+   
+}
+
+.ItemList:hover {
+    box-shadow: 0px 10px 50px lime;
+}
+
+.itemPrice{
+   margin-top:145px;
+   font-size: 200%;
+   list-style-type: none;
+}
+
+img {
+    border-radius: 5px 5px 0 0;
+    width: 60%;
+}
+
+.container {
+    padding: 2px 16px;
+}
+.linkButton {
+    background:none!important;
+    color:inherit;
+    border:none; 
+    padding:0!important;
+    font: inherit;
+    /*border is optional*/
+    border-bottom:0 solid #444; 
+    border-left: 05px solid #83B81A;
+    padding: 10px 10px;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+}
+
+
+
+
+
+

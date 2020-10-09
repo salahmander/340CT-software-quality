@@ -1,0 +1,19 @@
+.cf { 
+  position:relative;
+  margin-left: 32%;
+}
+
+.bottom{
+  margin-top: -40%
+}
+
+.cf img {
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+}
+.bottom:hover {
+	opacity: 0;
+}

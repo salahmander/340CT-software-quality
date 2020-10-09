@@ -1,0 +1,144 @@
+
+
+.customisation{
+  width: 65%;
+  height: 600px;
+  box-shadow: 0px 5px 30px lime;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 6px;
+  margin: auto;
+  position: absolute; top:25%; right:20%;
+
+}
+
+.deviceName{
+  width: 25%;
+  height: 35px;
+  position:absolute; top:5%; right:71%;
+  border-radius: 03px;
+  border: none;
+  padding-left: 05px;
+  border-left: 05px solid #83B81A;
+
+}
+
+.customisation img{
+  width: 45%;
+  height: 80%;
+  position: absolute; top:16%; right:52%;
+}
+
+
+.CPU{
+width: 15%;
+height: 35px;
+position: absolute;; top:20%; right:25%;
+border-radius: 03px;
+border: none;
+border: 1px solid #222;
+padding-left: 05px;
+border-left: 05px solid #83B81A;
+
+}  
+
+.RAM{
+  width: 15%;
+  height: 35px;
+  position:absolute; top:20%; right:8%;
+  border-radius: 03px;
+  border: none;
+  border: 1px solid #222;
+  padding-left: 05px;
+  border-left: 05px solid #83B81A;
+
+}
+
+.storageSize{
+  width: 15%;
+  height: 35px;
+  position: absolute;; top:29%; right:8%;
+  border-radius: 03px;
+  border: none;
+  border: 1px solid #222;
+  padding-left: 05px;
+  border-left: 05px solid #83B81A;
+  
+  }  
+  
+  .storage{
+    width: 15%;
+    height: 35px;
+    position:absolute; top:29%; right:25%;
+    border-radius: 03px;
+    border: none;
+    border: 1px solid #222;
+    padding-left: 05px;
+    border-left: 05px solid #83B81A;
+  
+  }
+
+  .GPU{
+    width: 15%;
+    height: 35px;
+    position:absolute; top:38%; right:25%;
+    border-radius: 03px;
+    border: none;
+    border: 1px solid #222;
+    padding-left: 05px;
+    border-left: 05px solid #83B81A;
+  
+  }
+
+  .price{
+    width: 14%;
+    height: 35px;
+    background: #fff;
+    position:absolute; top:47%; right:25%;
+    border-radius: 03px;
+    border: none;
+    border: 1px solid #222;
+    padding-left: 05px;
+    border-left: 05px solid #83B81A;
+  }
+
+  .totalPrice{
+    width: 14%;
+    height: 35px;
+    background: #fff;
+    position:absolute; top:90%; right:25%;
+    border-radius: 03px;
+    border: none;
+    border: 1px solid #222;
+    padding-left: 05px;
+    border-left: 05px solid #83B81A;
+  }
+
+.checkOut {
+  background-color: #83B81A;
+  color: black;
+  border: 2px solid #222;
+  border: solid;
+  outline: none;
+  border-radius: 0;
+  padding: 0.7% 0;
+  font-size: 1em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  margin-bottom: 0.25em;
+  transition: all 0.5s ease;
+}
+
+.checkOut:hover, .checkOut:focus {
+  color: black;
+  background-color: #fff;
+  border: 2px solid #83B81A;
+  
+
+}
+
+.checkOut {
+  display: block;
+  margin:auto;
+  position: absolute; top:90%; right:3%;
+  width: 10%;
+}

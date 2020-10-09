@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly in "debug" mode and match the snapshot 1`] = `
+<div
+  className="confirmation"
+>
+  <div
+    className="container"
+  >
+    <button
+      className="linkButton"
+      onClick={[Function]}
+    >
+      <h4>
+        <b>
+          Thank You
+        </b>
+      </h4>
+    </button>
+    <p>
+      Thanks for shopping at Acer! your order is being processed.
+    </p>
+  </div>
+</div>
+`;

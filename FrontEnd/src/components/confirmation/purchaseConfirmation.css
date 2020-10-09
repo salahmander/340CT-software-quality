@@ -1,0 +1,30 @@
+.confirmation {
+    box-shadow: 0px 5px 30px lime;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: black;
+    width: 30%;
+    transition: 0.3s;
+    border-radius: 5px;
+    display: flex;
+    margin-bottom: 5%;
+    margin-left: 35%;
+    
+   
+}
+
+.confirmation .container {
+    padding: 2px 16px;
+    
+}
+.confirmation .linkButton {
+    background:none!important;
+    color:inherit;
+    border:none; 
+    font: inherit;
+    /*border is optional*/ 
+    border-left: 05px solid #83B81A;
+    outline: none;
+    cursor: pointer;
+
+}
+

@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`item list  should render correctly in "debug" mode and match the snapshot 1`] = `
+<div
+  className="logWrapper"
+>
+  <div
+    className="form-wrapper"
+  >
+    <h1>
+      Login
+    </h1>
+    <form
+      noValidate={true}
+      onSubmit={[Function]}
+    >
+      <div
+        className="username"
+      >
+        <input
+          name="username"
+          noValidate={true}
+          onChange={[Function]}
+          placeholder="username"
+          type="text"
+        />
+        <span />
+      </div>
+      <div
+        className="password"
+      >
+        <input
+          name="password"
+          noValidate={true}
+          onChange={[Function]}
+          placeholder="Password"
+          type="password"
+        />
+        <span />
+        <span />
+      </div>
+      <div
+        className="loginAccount"
+      >
+        <button
+          className="logSumbit"
+          type="submit"
+        >
+          Login
+        </button>
+        <button
+          className="regButton"
+          onClick={[Function]}
+        >
+          <small>
+            Don't have an account?
+          </small>
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;
