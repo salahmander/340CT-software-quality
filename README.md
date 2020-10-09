@@ -6,6 +6,7 @@ In this project, I developed an Acer reseller that allowed users to register and
 Grade: 78%
 
 Demo Link (3 mins): https://www.youtube.com/watch?v=KOZ5w3AoofU&feature=youtu.be 
+
 More information: https://drive.google.com/open?id=1QlB_X1Tt9beIZwNyAD3SQvjbsmdPxMZ0
 
 This project was made in 2018
